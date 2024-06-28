@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+format: html
+execute: 
+  echo: false
+  warning: false
+---
+
+```{r}
+library(tidyverse)
+```
+
